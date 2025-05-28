@@ -47,8 +47,8 @@ precision, recall, F1-score).
 ## Запуск проекта
 1. Клонируйте репозиторий:
    ```bash
-   git clone <ваш_репозиторий>
-   cd predictive_maintenance_project
+   git clone https://github.com/puzzle1qwerty/DS_VKR_Project
+   cd DS_VKR_Project
 2. Установите зависимости:
     ```bash
     pip install -r requirements.txt
