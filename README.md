@@ -16,7 +16,8 @@ https://archive.ics.uci.edu/dataset/601/predictive+maintenance+dataset
 - `analysis_and_model.py`: Страница с анализом данных и моделью. 
 - `presentation.py`: Страница с презентацией проекта. 
 - `requirements.txt`: Файл с зависимостями. 
-- `data/`: Папка с данными. 
+- `data/`: Папка с данными.
+- `video/`: Папка с видео-демонстрацией.
 - `README.md`: Описание проекта.
 
 ## Описание разработанной модели
